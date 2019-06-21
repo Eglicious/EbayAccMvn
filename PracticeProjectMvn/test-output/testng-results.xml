@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28462" started-at="2019-06-21T18:56:39Z" finished-at="2019-06-21T18:57:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28462" started-at="2019-06-21T18:56:39Z" finished-at="2019-06-21T18:57:08Z">
+      <class name="AutomationFrameWork.PracticeProjectMvn.EbayMvnCreatAccHRun">
+        <test-method status="PASS" signature="run()[pri:0, instance:AutomationFrameWork.PracticeProjectMvn.EbayMvnCreatAccHRun@59fa1d9b]" name="run" duration-ms="28417" started-at="2019-06-21T18:56:39Z" finished-at="2019-06-21T18:57:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- run -->
+      </class> <!-- AutomationFrameWork.PracticeProjectMvn.EbayMvnCreatAccHRun -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
